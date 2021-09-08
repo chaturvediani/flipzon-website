@@ -37,7 +37,7 @@ A step by step series of examples that tell you how to get a development env run
 
 1. Clone the repo:
   ```
-  $ git clone https://github.com/m607stars/Flipzon-Ecommerce
+  $ git clone https://github.com/chaturvediani/flipzon-website.git
   ```
 
 2. Install the dependencies:
@@ -73,5 +73,3 @@ You are done with the setup now!
 - [ ] Handle concurrencies. 
 
 -----------------------------------
-
-<h3 align="center"><b>Developed with :heart: by <a href="https://github.com/m607stars">Mayank</a>, <a href="https://github.com/aafiya-h"> Aafiya</a> and <a href="https://github.com/talha1503">Talha</a> </b></h1>
